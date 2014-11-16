@@ -16,5 +16,6 @@ Usage:
 - `<11-421>` sends 48  to pin #8
 
 Warnings:
+- Don't forget to attach the pins and send signals to them.
 - Doesn't support numbers over integer limit, 32767
 - Doesn't support negative values but you can set your own "zero". For example you can treat numbers below 100 as negative.
